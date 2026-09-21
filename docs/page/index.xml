@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on qwqFranzFox&#39;s Blog</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on qwqFranzFox&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-CN</language>
+        <managingEditor>qwqfranzfox@outlook.com (qwqFranzFox)</managingEditor>
+        <webMaster>qwqfranzfox@outlook.com (qwqFranzFox)</webMaster><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>关于</title>
+            <link>http://localhost:1313/about/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>qwqfranzfox@outlook.com (qwqFranzFox)</author>
+            <guid>http://localhost:1313/about/</guid>
+            <description>&lt;p&gt;我是qwqFranzFox（可以直接叫我Franz），曾经是一名OIer。&lt;/p&gt;&#xA;&lt;p&gt;现在在山东大学计算机学院读书。&lt;/p&gt;&#xA;&lt;p&gt;这个博客会发一些技术内容和个人见解。&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>归档</title>
+            <link>http://localhost:1313/archives/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>qwqfranzfox@outlook.com (qwqFranzFox)</author>
+            <guid>http://localhost:1313/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>搜索</title>
+            <link>http://localhost:1313/search/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>qwqfranzfox@outlook.com (qwqFranzFox)</author>
+            <guid>http://localhost:1313/search/</guid>
+            <description></description>
+        </item></channel>
+</rss>
